@@ -1,1 +1,1 @@
-[[touch]]
+[[📂 Obsidian Git Sync Guide]]
